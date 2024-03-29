@@ -3,7 +3,7 @@ import React from "react";
 const discussionTopics = [
   "Technology",
   "Climate",
-  "space exploration",
+  "Space",
   "AI and ethics",
   "Social media",
   "Mental health",
